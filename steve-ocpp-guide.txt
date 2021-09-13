@@ -1,0 +1,6 @@
+first run steve raspibian image on sd card of pi and boot it
+login with credentials pi and keba12 or root and keba12 
+make sure pi is connected to ethernet cable 
+now access http://<raspbery pi ip>:8080/steve/manager/home in a browser which is in same network as pi
+login with admin and keba12 on dashboard
+now use chargepoint simulator script for testing.
